@@ -1,0 +1,29 @@
+name: michaeljwalsh
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.64009
+title: MICHAEL  j  WALSH
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7085123509168625
+  lightness: 0.8283991373609751
+  saturation: 0.2656729177106172
+  rhythmicContrast: 0.8330778889358044
+purpose: []
