@@ -1,24 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Michael j  Walsh]]></title>
-        <description><![CDATA[Michael j  Walsh]]></description>
-        <link>https://thegrid.ai/michaeljwalsh/</link>
+        <title><![CDATA[MICHAEL  j  WALSH]]></title>
+        <description><![CDATA[MICHAEL  j  WALSH]]></description>
+        <link>http://github.com/dylang/node-rss</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Jan 2016 02:20:42 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/michaeljwalsh/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 28 Jan 2016 01:38:03 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/ec568af8-c188-41ed-aec8-a458f25542fd.jpg">]]></description>
-            <link>https://thegrid.ai/michaeljwalsh/256730b7-21a4-4949-99ea-d1c14fc465ae/index.html</link>
-            <guid isPermaLink="false">256730b7-21a4-4949-99ea-d1c14fc465ae</guid>
-            <pubDate>Thu, 28 Jan 2016 02:18:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[cloth bknd]]></title>
-            <description><![CDATA[<article><h1>cloth bknd</h1><p>This handmade leather</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/644e4a58ddb01e6e9f05c2a5b42ce1da9f4bf63c.jpg"></article>]]></description>
-            <link>https://thegrid.ai/michaeljwalsh/817fef1e-e5c9-4ec0-aa2c-6ef81c02e499/index.html</link>
-            <guid isPermaLink="false">817fef1e-e5c9-4ec0-aa2c-6ef81c02e499</guid>
-            <pubDate>Thu, 28 Jan 2016 02:02:09 GMT</pubDate>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/615ccfe3-0c92-447d-a0f5-914c5ba3fbc8.png">]]></description>
+            <link>undefinedbbcbfef9-c42a-4652-a8f2-bf274b0cddfc/index.html</link>
+            <guid isPermaLink="false">bbcbfef9-c42a-4652-a8f2-bf274b0cddfc</guid>
+            <pubDate>Thu, 28 Jan 2016 01:35:31 GMT</pubDate>
         </item>
     </channel>
 </rss>
