@@ -1,8 +1,7 @@
 name: michaeljwalsh
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.64009
-title: MICHAEL  j  WALSH
+layout_spectrum: 0.7228086446411908
+typography_spectrum: 0.7189051776658744
 cta:
   domain: null
   bucket: null
@@ -17,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#49494b'
-    - '#ea6e3a'
-    - '#fcfcfc'
-    - '#d1d1cf'
-    - '#9d9488'
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
   brandStrength: 0.7085123509168625
   lightness: 0.8283991373609751
   saturation: 0.2656729177106172
